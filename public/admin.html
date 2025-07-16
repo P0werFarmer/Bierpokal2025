@@ -1,0 +1,45 @@
+<!-- public/admin.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Adminbereich</title>
+  <script src="/socket.io/socket.io.js"></script>
+  <link rel="stylesheet" href="/style.css">
+
+  <style>
+    body { font-family: sans-serif; display: flex; gap: 1rem; padding: 1rem; }
+    .column { border: 1px solid #ccc; padding: 1rem; flex: 1; }
+    ul { list-style:none; padding: 0; }
+    li { margin-bottom: 0.5rem; display: flex; justify-content: space-between; align-items: center; }
+    button { margin-left: 0.5rem; color: red; }
+    input[type=text] { width: 80%; }
+  </style>
+</head>
+<body>
+  <div id="menu"></div>
+<script>
+  fetch('links.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('menu').innerHTML = data;
+    });
+</script>
+  <div class="column">
+    <h3>Teams</h3>
+    <input id="newTeam" placeholder="Teamname"><button onclick="addTeam()">+</button>
+    <ul id="teamList"></ul>
+  </div>
+  <div class="column">
+    <h3>Spieler</h3>
+    <input id="newPlayer" placeholder="Spielername"><button onclick="addPlayer()">+</button>
+    <ul id="playerList"></ul>
+  </div>
+  <div class="column">
+    <h3>Punkte</h3>
+    <input id="newPoint" placeholder="Zeitstempel"><button onclick="addPoint()">+</button>
+    <ul id="pointList"></ul>
+  </div>
+  <script src="/script.js"></script>
+</body>
+</html>

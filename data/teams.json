@@ -1,0 +1,698 @@
+{
+  "teams": [
+    {
+      "name": "Die letzten Menschen",
+      "players": [
+        {
+          "name": "Jacques Meinmann",
+          "points": []
+        },
+        {
+          "name": "Mona Henning",
+          "points": []
+        },
+        {
+          "name": "Noah Helmer",
+          "points": []
+        },
+        {
+          "name": "Pascal Teupen",
+          "points": []
+        },
+        {
+          "name": "Judith Stöckel",
+          "points": []
+        },
+        {
+          "name": "Jan Uphus",
+          "points": []
+        },
+        {
+          "name": "Isabel Tiermann",
+          "points": []
+        },
+        {
+          "name": "Lutz Visse",
+          "points": []
+        },
+        {
+          "name": "Fynn Uphus",
+          "points": []
+        },
+        {
+          "name": "Elias Schräer",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Gegen uns hätten wir auch gewonnen",
+      "players": [
+        {
+          "name": "Andreas Burmeister",
+          "points": []
+        },
+        {
+          "name": "Alexander Kress",
+          "points": []
+        },
+        {
+          "name": "Sabina Hakani",
+          "points": []
+        },
+        {
+          "name": "Mika Kelleter",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Keller GmbH",
+      "players": [
+        {
+          "name": "Nico Bahrenburg",
+          "points": []
+        },
+        {
+          "name": "Marell Dümmer",
+          "points": []
+        },
+        {
+          "name": "Sibel Kisa",
+          "points": []
+        },
+        {
+          "name": "Eliyah Abeler",
+          "points": []
+        },
+        {
+          "name": "Jona Lütkemeyer",
+          "points": []
+        },
+        {
+          "name": "Fabian Schmidt",
+          "points": []
+        },
+        {
+          "name": "Hendrik Scharlau",
+          "points": []
+        },
+        {
+          "name": "Franka Wired",
+          "points": []
+        },
+        {
+          "name": "Laura Wellenkötter",
+          "points": []
+        },
+        {
+          "name": "Simon Cremer",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Kamplinger SV",
+      "players": [
+        {
+          "name": "Ben Bäthker",
+          "points": []
+        },
+        {
+          "name": "Leon Stapper",
+          "points": []
+        },
+        {
+          "name": "Matthias Held",
+          "points": []
+        },
+        {
+          "name": "Lars Tann",
+          "points": []
+        },
+        {
+          "name": "Luc Sturzbecher",
+          "points": []
+        },
+        {
+          "name": "Jan Iwanicki",
+          "points": []
+        },
+        {
+          "name": "Lucas Krümpel",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "§323a StGB - Vollrausch",
+      "players": [
+        {
+          "name": "Marcel Schulte",
+          "points": []
+        },
+        {
+          "name": "Jonas Ernsting",
+          "points": []
+        },
+        {
+          "name": "Paulina Beckmann",
+          "points": []
+        },
+        {
+          "name": "Anna Kamp",
+          "points": []
+        },
+        {
+          "name": "Felix Menke",
+          "points": []
+        },
+        {
+          "name": "Lara Leusmann",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Beer Baller",
+      "players": [
+        {
+          "name": "Emilia Dymek",
+          "points": []
+        },
+        {
+          "name": "Maurice-Leon Schröder",
+          "points": []
+        },
+        {
+          "name": "Jordane Klugermann",
+          "points": []
+        },
+        {
+          "name": "Benjamin Schlepers",
+          "points": []
+        },
+        {
+          "name": "Bastian Kerkhoff",
+          "points": []
+        },
+        {
+          "name": "Milena Fresenbork",
+          "points": []
+        },
+        {
+          "name": "Kevin Smyrek",
+          "points": []
+        },
+        {
+          "name": "Florian Elsner",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Osaki",
+      "players": [
+        {
+          "name": "Noah Winter",
+          "points": []
+        },
+        {
+          "name": "Jonathan Kitzmann",
+          "points": []
+        },
+        {
+          "name": "Thilo Kestermann",
+          "points": []
+        },
+        {
+          "name": "Jost Kitzmann",
+          "points": []
+        },
+        {
+          "name": "Lars Ofenhammer",
+          "points": []
+        },
+        {
+          "name": "Finn Strehlow",
+          "points": []
+        },
+        {
+          "name": "Jula Berghus",
+          "points": []
+        },
+        {
+          "name": "Miriam Beckschulte",
+          "points": []
+        },
+        {
+          "name": "Leandra Schnieders",
+          "points": []
+        },
+        {
+          "name": "Sophie Pappert",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Jamas, bis morgen",
+      "players": [
+        {
+          "name": "Lea Marie Achterkamp",
+          "points": []
+        },
+        {
+          "name": "Luca Gerdes",
+          "points": []
+        },
+        {
+          "name": "Alexa Brinkmann",
+          "points": []
+        },
+        {
+          "name": "Adrian Diel",
+          "points": []
+        },
+        {
+          "name": "Gero Brinkmann",
+          "points": []
+        },
+        {
+          "name": "Alex Heitfeld",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Ballverlust United",
+      "players": [
+        {
+          "name": "Jan Krebber",
+          "points": []
+        },
+        {
+          "name": "Christian Kamann",
+          "points": []
+        },
+        {
+          "name": "Leon Schmitz",
+          "points": []
+        },
+        {
+          "name": "Luisa Brüll",
+          "points": []
+        },
+        {
+          "name": "Sanja Wehlange",
+          "points": []
+        },
+        {
+          "name": "Mairin Ludwig",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Sandkasten Krieger",
+      "players": [
+        {
+          "name": "Mario Steller",
+          "points": []
+        },
+        {
+          "name": "Cara Leifeling",
+          "points": []
+        },
+        {
+          "name": "Laura Asemann",
+          "points": []
+        },
+        {
+          "name": "Stine Kunzmann",
+          "points": []
+        },
+        {
+          "name": "Benjamin Sloot",
+          "points": []
+        },
+        {
+          "name": "Maxim Schröder",
+          "points": []
+        },
+        {
+          "name": "Lilly Perk",
+          "points": []
+        },
+        {
+          "name": "Lilli Lenz",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Benjamin Bierchen",
+      "players": [
+        {
+          "name": "Matthias Geers",
+          "points": []
+        },
+        {
+          "name": "Christopher Hopp",
+          "points": []
+        },
+        {
+          "name": "Sara Schulte Westenberg",
+          "points": []
+        },
+        {
+          "name": "Isabell Dömer",
+          "points": []
+        },
+        {
+          "name": "Jan Vonderheide",
+          "points": []
+        },
+        {
+          "name": "Jannik Kamp",
+          "points": []
+        },
+        {
+          "name": "Nico Breulmann",
+          "points": []
+        },
+        {
+          "name": "Rene Grieger",
+          "points": []
+        },
+        {
+          "name": "Sven Vonderheide",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Kevin allein am Netz",
+      "players": [
+        {
+          "name": "Marius Schilling",
+          "points": []
+        },
+        {
+          "name": "David Feldhoff",
+          "points": []
+        },
+        {
+          "name": "Nils Günther",
+          "points": []
+        },
+        {
+          "name": "Kevin Uzun",
+          "points": []
+        },
+        {
+          "name": "Timo Gehling",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Saufstellung",
+      "players": [
+        {
+          "name": "Michael Pels",
+          "points": []
+        },
+        {
+          "name": "Anna Klöpper",
+          "points": []
+        },
+        {
+          "name": "Ilka Bruning",
+          "points": []
+        },
+        {
+          "name": "Anabell Scholz",
+          "points": []
+        },
+        {
+          "name": "Nicole Kramar",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Bing Bong",
+      "players": [
+        {
+          "name": "Leo Schwegmann",
+          "points": []
+        },
+        {
+          "name": "Henrik Tann",
+          "points": []
+        },
+        {
+          "name": "Erik Reimer",
+          "points": []
+        },
+        {
+          "name": "Lasse Christiansen",
+          "points": []
+        },
+        {
+          "name": "Pascal Haberland",
+          "points": []
+        },
+        {
+          "name": "Hannah Löchte",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Arminia Bierzelt",
+      "players": [
+        {
+          "name": "Jonas Teeuwen",
+          "points": []
+        },
+        {
+          "name": "Sophie Vester",
+          "points": []
+        },
+        {
+          "name": "Dominik Lingk",
+          "points": []
+        },
+        {
+          "name": "Niklas Willemsen",
+          "points": []
+        },
+        {
+          "name": "Silas Bomke",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Pedro Spritz",
+      "players": [
+        {
+          "name": "Estelle Kamp",
+          "points": []
+        },
+        {
+          "name": "Celine Wübbelmann",
+          "points": []
+        },
+        {
+          "name": "Franziska Leusmann",
+          "points": []
+        },
+        {
+          "name": "Sarah Kersting",
+          "points": []
+        },
+        {
+          "name": "Jost Kleine-Frauns",
+          "points": []
+        },
+        {
+          "name": "Lilli Lake",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "(B)all too well",
+      "players": [
+        {
+          "name": "Rika Ruhe",
+          "points": []
+        },
+        {
+          "name": "Danja Leiers",
+          "points": []
+        },
+        {
+          "name": "Patrick Wisotzki",
+          "points": []
+        },
+        {
+          "name": "Leonard Westhoff",
+          "points": []
+        },
+        {
+          "name": "Darleen Metten",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Spritz Pedro",
+      "players": [
+        {
+          "name": "Theresa Schürhörster",
+          "points": []
+        },
+        {
+          "name": "Michelle Stencel",
+          "points": []
+        },
+        {
+          "name": "Johanna Winkeler",
+          "points": []
+        },
+        {
+          "name": "Miriam Lichtenborg",
+          "points": []
+        },
+        {
+          "name": "Felix Kersting",
+          "points": []
+        },
+        {
+          "name": "Nadine Greiwe",
+          "points": []
+        },
+        {
+          "name": "Leon Vater",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "1. SC Kaffee und Kuchen",
+      "players": [
+        {
+          "name": "Titus Ellertmann",
+          "points": []
+        },
+        {
+          "name": "Laurenz Fronhoff",
+          "points": []
+        },
+        {
+          "name": "Lutz Ibeler",
+          "points": []
+        },
+        {
+          "name": "Noah Wagner",
+          "points": []
+        },
+        {
+          "name": "Nils Rothe",
+          "points": []
+        },
+        {
+          "name": "Luca Stienemann",
+          "points": []
+        },
+        {
+          "name": "Michael Ascheberg",
+          "points": []
+        },
+        {
+          "name": "Jarno Wermers",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Die Schnapsbagger",
+      "players": [
+        {
+          "name": "Justin Krause",
+          "points": []
+        },
+        {
+          "name": "Patrick Peters",
+          "points": []
+        },
+        {
+          "name": "Paul Haarmann",
+          "points": []
+        },
+        {
+          "name": "Emilie Laumann",
+          "points": []
+        },
+        {
+          "name": "Nina Wehmschulte",
+          "points": []
+        },
+        {
+          "name": "Lessa Gude",
+          "points": []
+        },
+        {
+          "name": "Paul Sondermann",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    },
+    {
+      "name": "Lecken und Schlucken",
+      "players": [
+        {
+          "name": "Julius Asemann",
+          "points": []
+        },
+        {
+          "name": "Marie Wiesner",
+          "points": []
+        },
+        {
+          "name": "Anton Strothmann",
+          "points": []
+        },
+        {
+          "name": "Fynn Nitschke",
+          "points": []
+        }
+      ],
+      "beerpongpoints": []
+    }
+  ]
+}

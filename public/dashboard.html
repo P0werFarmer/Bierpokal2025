@@ -1,0 +1,123 @@
+<!-- public/dashboard.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard</title>
+  <script src="/socket.io/socket.io.js"></script>
+  <link rel="stylesheet" href="/css/bootstrap.css"> 
+
+    <style>
+      body {
+        font-family: 'Segoe UI', sans-serif;
+        background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+        margin: 0;
+        padding: 2rem;
+        color: #333;
+        text-align: center;
+      }
+  
+      h2 {
+        margin-bottom: 1rem;
+        font-size: 2.9rem;
+        color: #007BFF;
+        text-shadow: 1px 1px 2px #aaa;
+      }
+  
+      table {
+        margin: 0 auto;
+        border-collapse: collapse;
+        width: 90%;
+        max-width: 800px;
+        background-color: #ffffffcc;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+        overflow: hidden;
+      }
+  
+      thead {
+        background-color: #007BFF;
+        color: white;
+      }
+  
+      th, td {
+        padding: 1rem;
+        text-align: left;
+      }
+  
+      tbody tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+  
+      tbody tr:hover {
+        background-color: #e0f7fa;
+        cursor: default;
+      }
+      tbody li {
+        list-style: none;
+      }
+  
+      th:first-child,
+      td:first-child {
+        width: 70px;
+      }
+  
+      td:last-child {
+        font-weight: bold;
+        color: #d63384;
+      }
+  
+      @media (max-width: 600px) {
+        table, thead, tbody, th, td, tr {
+          display: block;
+        }
+  
+        thead {
+          display: none;
+        }
+  
+        tbody tr {
+          margin-bottom: 1rem;
+          background-color: #fff;
+          border-radius: 8px;
+          box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
+  
+        td {
+          text-align: right;
+          padding-left: 50%;
+          position: relative;
+        }
+  
+        td::before {
+          content: attr(data-label);
+          position: absolute;
+          left: 1rem;
+          text-align: left;
+          font-weight: bold;
+          color: #555;
+        }
+      }
+    </style>
+</head>
+<body>
+  <h2>Bierpokal 2025</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Platz</th>
+        <th>Teamname (Mitspieler)</th>
+        <th>Bier</th>
+        <th>BierPong</th>
+        <th>Ø</th>
+        <th>Gesamt</th>
+      </tr>
+    </thead>
+    <tbody id="ranking"></tbody>
+  </table>
+  <table>
+    <tbody id="recentBeers"></tbody>
+  </table>
+  <script src="/script.js"></script>
+</body>
+</html>

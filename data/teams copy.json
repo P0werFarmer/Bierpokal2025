@@ -1,0 +1,134 @@
+{
+  "teams": [
+    {
+      "name": "Kamplinger Sv",
+      "players": [
+        {
+          "name": "Ben \tBäthker",
+          "points": [
+            ""
+          ]
+        }
+      ],
+      "beerpongpoints": [
+        "Test3",
+        "Test4"
+      ]
+    },
+    {
+      "name": "Benjamin Bierchen",
+      "players": [
+        {
+          "name": "Nico\tBreulmann",
+          "points": [
+            "asdf"
+          ]
+        },
+        {
+          "name": "Isabel\tDömer",
+          "points": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "Rene\tGrieger",
+          "points": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "Matze",
+          "points": []
+        }
+      ],
+      "beerpongpoints": [
+        "Test1",
+        "Test2"
+      ]
+    },
+    {
+      "name": "Die letzten Menschen",
+      "players": [
+        {
+          "name": "Lutz\tBrüning",
+          "points": []
+        },
+        {
+          "name": "Mattes",
+          "points": [
+            "Tada"
+          ]
+        }
+      ],
+      "beerpongpoints": [
+        "Test1",
+        "Test2",
+        "Test7"
+      ]
+    },
+    {
+      "name": "Gegen uns hätten wir auch gewonnen",
+      "players": [
+        {
+          "name": "Andreas\tBurmeister",
+          "points": [
+            ""
+          ]
+        }
+      ],
+      "beerpongpoints": [
+        "Test1",
+        "Test2"
+      ]
+    },
+    {
+      "name": "Bing Bong",
+      "players": [
+        {
+          "name": "Lasse\tChristiansen",
+          "points": [
+            ""
+          ]
+        }
+      ],
+      "beerpongpoints": [
+        "Test1",
+        "Test2"
+      ]
+    },
+    {
+      "name": "BierpongSpieler",
+      "players": [
+        {
+          "name": "MAtze",
+          "points": [
+            "Bier1",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "Lars",
+          "points": [
+            "Nooow",
+            ""
+          ]
+        },
+        {
+          "name": "Noah Winter",
+          "points": [
+            "zuuuuuuug",
+            "durst",
+            "",
+            ""
+          ]
+        }
+      ],
+      "beerpongpoints": []
+    }
+  ]
+}

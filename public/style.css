@@ -1,0 +1,67 @@
+/* public/style.css */
+
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+    margin: 0;
+  }
+  
+  .column {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    flex: 1;
+  }
+
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #aaa;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  li.active {
+    background-color: #ddeeff;
+    font-weight: bold;
+  }
+  
+  button {
+    margin-left: 0.5rem;
+    color: red;
+    font-weight: bold;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  input[type=text] {
+    width: 80%;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Dashboard spezifisch */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
